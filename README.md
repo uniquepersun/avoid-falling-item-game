@@ -10,11 +10,11 @@ To get started, clone the repo and run the game with Python!
 ```
 
 ## Usage
-grGrab the latest release from the [releases page](https://github.com/uniquepersun/avoid-falling-item-game/releases) or clone the repo and jump right in! :joystick:
+grab the latest release from the [releases page](https://github.com/uniquepersun/avoid-falling-item-game/releases) or clone the repo and jump right in! :joystick:
  complete the requirements and then just Launch the game :boom: Now you’re ready to dodge those falling items and challenge your reflexes! :sunglasses:
 
 
-## But, how it playy??
+## But, how to playy??
 Use the arrow keys to move your player left and right. :arrow_left::arrow_right:
 Dodge the falling items for as long as possible to set a high score! :100:
 
